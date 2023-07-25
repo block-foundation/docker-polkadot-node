@@ -81,6 +81,8 @@ You can pass a number environment variables to configure the node
 - https://hub.docker.com/r/parity/polkadot/
 - https://hub.docker.com/r/ajcrowe/polkadot
 - https://github.com/paritytech/polkadot/blob/master/doc/docker.md
+- https://wiki.polkadot.network/docs/maintain-sync
+- https://albertocevallos.medium.com/setting-up-a-polkadot-node-the-easy-way-3a885283091f
 
 ## Development
 
